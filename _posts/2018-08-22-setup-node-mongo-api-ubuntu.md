@@ -3,6 +3,7 @@ layout: post
 title: "Setup Node&Mongo API on Ubuntu"
 date: 2018-08-22 18:00:00 +0200
 categories: blog
+description: Steps on how to setup test and production environments for a Node.js api with MongoDB on Ubuntu
 keywords: Ubuntu, MongoDB, Node, Express, Git, pm2, Nginx, setup, development, production
 ---
 
