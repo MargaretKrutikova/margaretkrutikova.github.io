@@ -19,7 +19,7 @@ email: margaretkru@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Coding experiments & ideas
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://margaretkrutikova.github.io
+url: https://margaretkrutikova.github.io
 # twitter_username: jekyllrb
 github_username: margaretkrutikova
 
